@@ -1,0 +1,297 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+    }
+
+.im{
+background:url(/static/images/low-angle-view-unrecognizable-muscular-build-man-preparing-lifting-barbell-health-club.jpg) no-repeat center fixed;
+background-size:cover;
+opacity:0.8
+}
+
+.wei{
+background :url(/static/images/NewNote.jpg) no-repeat center fixed;
+background-size:cover;
+opacity:0.8
+}
+
+form{
+margin:100px;
+margin-left:500px;
+margin-right:500px;
+border:3px solid black;
+border-radius: 8px;
+height:200px;
+width:300px;
+padding:50px;
+color:white;
+background:black;
+opacity:0.8;
+}
+
+.e{
+margin-right:540px;
+font-size:40px;
+font-family: cursive;
+}
+
+
+
+a{
+color:black;
+font-size:larger;
+margin:10px;
+text-decoration:none;
+}
+
+a:hover{
+text-decoration:none;
+font-size:22px;
+transition:0.4s
+}
+
+div{
+background:white;
+}
+
+
+nav{
+text-align:right;
+padding:15px;
+}
+
+.n{
+height:77px;
+}
+
+.ho{
+margin-top:50px}
+
+table{
+margin-left:400px;
+margin-top:100px;
+}
+
+.d{
+background:none;
+color:white
+}
+
+.d2{
+background:none;
+color:white;
+
+}
+
+.name{
+width:200px;
+height:23px;
+margin-left:28px;
+padding-left:4px
+}
+
+.email{
+width:200px;
+height:23px;
+margin-left:28px;
+padding-left:4px
+}
+
+.phone{
+width:200px;
+height:23px;
+margin-left:2px;
+padding-left:4px
+}
+
+.dt{
+height:40px;
+font-family:sans
+}
+
+button{
+width:300px;
+height:30px;
+font-size:medium;
+font-family:sans;
+background:grey;
+color:white;
+border: 1px;
+}
+
+.w{
+background:white;
+text-align:left;
+}
+img{
+width:120px;
+height:100px;
+float:left;
+margin:-9px;
+margin-left:5px
+}
+
+.welcome{
+font-size:50px;
+font-family:serif;
+padding:50px;
+margin:200px;
+margin-bottom:-30px;
+text-align:center;
+}
+.welh6{
+font-size:20px;
+font-family:verdana;
+text-align:center;
+}
+
+.a{
+font-size:15px;
+font-family:verdana;
+text-align:right;
+color:white
+}
+
+.link{
+text-align:center;
+background:none;
+margin-top:30px;
+
+}
+
+.a2 {
+  background-color: #d5a766;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  border:2px solid #d5a766;
+  display: inline-flex;
+
+}
+
+.a2:hover {
+  background-color:inherit;
+  color: white;
+  border: 2px solid #d5a766;
+  text-decoration:none;
+  font-size:18px;
+  transition:0.5s
+}
+
+.a1 {
+  opacity:1;
+  color: white;
+  border: 2px solid white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+}
+
+.a1:hover {
+  background-color:white;
+  color: #d5a766;
+  text-decoration:none;
+  font-size:18px;
+  transition:0.5s
+}
+
+.f{
+text-align:center;
+margin:100px;
+margin-left:150px;
+background:none;
+color:white;
+font-size:20px;
+}
+
+th,td{
+padding:10px
+}
+.hr{
+text-align:center;
+background:none
+}
+
+.a1t {
+  background:black;
+  color: white;
+  border: 2px solid white;
+  padding: 11px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.bench{
+margin-top:100px;
+margin-left:200px;
+display: inline-block;
+}
+
+.webc{
+background:black;
+
+}
+
+.ben{
+height:300px;
+width:450px;
+margin:0px
+}
+
+.ben1{
+padding-left:300px;
+padding-top:7px;
+background:none;
+}
+
+.ben1c{
+color:white;
+padding-left:60px
+}
+
+
+.b{
+height:300px;
+width:450px;
+padding-left:850px;
+padding-bottom:10px;
+margin:0px
+}
+
+.p1
+{
+background:none;
+}
+.p1c
+{
+padding-top:100px;
+color:white;
+padding-left:1060px;
+margin:0px
+}
+
+.push{
+height:300px;
+width:450px;
+padding-left:200px;
+margin:0px
+}
+
+.push1
+{
+background:none;
+padding:100px;
+padding-top:310px;
+padding-left:330px
+}
+
+.push1c
+{
+color:white;
+padding-left:50px;
+margin:0px
+}
